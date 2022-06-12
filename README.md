@@ -15,6 +15,7 @@ Load index.html in a browser with cart.jsx in same dir
 
 ## Roadmap of future improvements
 * Display error to user when no items left (currently printed to console.log)
+* I restock to original numbers, but it seems like maybe is should be added to what we have? Maybe in a store they do just restock to original numbers.
 
 ## License information
 MIT license
